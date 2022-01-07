@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+#coments after hash
+*.cpp
+#all files having extension .cpp will be ignored
