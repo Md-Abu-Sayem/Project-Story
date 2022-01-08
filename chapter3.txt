@@ -1,1 +1,2 @@
-Thanks to Sohan for helping me learning backend . He also gave me a sample code for this purpose
+Thanks to Sohan for helping me learning backend . He also gave me a sample code for this 
+But I can't realize his code.So, I will not try to understand all of these.
